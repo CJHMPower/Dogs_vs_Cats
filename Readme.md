@@ -1,7 +1,7 @@
 
-# Dogs VS Cats\n
+# Dogs VS Cats
   
-## 项目说明\n
+## 项目说明
 
 输入：一张RGB图像
 输出： 类别是猫还是狗
